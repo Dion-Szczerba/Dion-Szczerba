@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Dion 👋
 
-<!--
-**Dion-Szczerba/Dion-Szczerba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate from Cardiff University, heading into AI/ML and automotive engineering.
+Four years as a part-time car mechanic taught me systematic fault-finding —
+now I apply it to software.
 
-Here are some ideas to get you started:
+**🔬 Featured work**
+- [Hyperseed HDC for Human Activity Recognition](https://github.com/Dion-Szczerba/Hyperseed-HDC-for-Human-Activity-Recognition) —
+  my dissertation: a 93 KB machine-learning model for IoT edge devices
+- [Circle Construction GUI](https://github.com/Dion-Szczerba/Interactive-Circle-Construction-GUI-MATLAB-) —
+  computational geometry playground in MATLAB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🛠 Working with:** Python · MATLAB · Java · FastAPI · React · NumPy · MongoDB/Neo4j · Arduino/Raspberry Pi
+
+📫 dion.szczerba@icloud.com
